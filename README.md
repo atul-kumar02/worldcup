@@ -8,3 +8,7 @@ Click "Matches" to see previous/upcoming matches or Info to see a list of clubs/
 Don't look directly at the bugs!
 
 Demo [here](https://worldcup.alexraileanu.me/).
+
+
+License
+=======
