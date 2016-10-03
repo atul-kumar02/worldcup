@@ -12,5 +12,5 @@ Demo [here](https://worldcup.alexraileanu.me/).
 
 ##License
 
-To get link of License.md[Click Here](https://github.com/alexraileanu/worldcup/blob/master/LICENSE.md)
+For License.md [Click Here](https://github.com/alexraileanu/worldcup/blob/master/LICENSE.md)
 
